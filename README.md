@@ -1,6 +1,6 @@
 # OCOR
-### [Paper (ArXiv)]()
-**This repository is the official pytorch implementation of our CVPR 2022 paper, *Bi-directional Object-context Prioritization Learning for Saliency Ranking*.**
+### [Paper (ArXiv)](https://arxiv.org/abs/2203.09416)
+Official pytorch implementation of **Bi-directional Object-context Prioritization Learning for Saliency Ranking, CVPR 2022**.
 
 ## :star2: Pipeline
 
