@@ -57,6 +57,6 @@ for file in files:
                 color_img[mask] = colors[i]
 
     cv2.imwrite('E:/Datasets/ASSR/results/final/' + file[:-4] + '.png', color_img)
-    cv2.imwrite('E:/Datasets/ASSR/results/final-black/' + file[:-4] + '.png', black_img)
+    cv2.imwrite('E:/Datasets/ASSR/results/final-gray/' + file[:-4] + '.png', black_img)
 
     k = k + 1
