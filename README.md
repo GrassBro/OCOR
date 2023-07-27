@@ -32,6 +32,9 @@ python evaluate_SOR.py
 ## Pre-trained Model
 Download it from our Baidu cloud: https://pan.baidu.com/s/15tINLiVC8kPQm6xqxyaJlA (pwd: ocor), then use it for fine-tuning, and inference.
 
+## Results
+Visual results for ASSR dataset: https://pan.baidu.com/s/1V3MzSBWI_5UNSfC1YCVf3g (pwd: ocor)
+
 
 ## Citation
 ```BibTeX
