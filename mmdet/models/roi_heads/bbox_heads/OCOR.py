@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class OCOR(nn.Module):
-    def __init__(self, hidden_dim=512, kernel_size=3, num_head=4, mlp_1x1=False):
+    def __init__(self, hidden_dim=512, kernel_size=3, num_head=1, mlp_1x1=False):
         super(OCOR, self).__init__()
 
         self.hidden_dim = hidden_dim
